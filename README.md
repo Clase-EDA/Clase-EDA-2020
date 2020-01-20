@@ -18,4 +18,4 @@ Para lo que vamos a hacer sólo se necesitan los comandos básicos para copiar r
 Para un primer tutorial vean <https://www.youtube.com/watch?v=SWYqp7iY_Tc>
 Pero hay muchos.
 Una vez que tengan su cuenta de GIT y GitHub registrense a la clase con esta liga (ahi debe aparecer su clave única)
-https://classroom.github.com/a/aUmcscHv
+https://classroom.github.com/classrooms/35463203-clase-eda-2020-1

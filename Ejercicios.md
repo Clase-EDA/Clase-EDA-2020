@@ -14,3 +14,11 @@
     Especificación: Tarea1.pdf
 
     Liga de entrega: https://classroom.github.com/a/WXJxQQDA
+
+3. Tarea 2. Árboles AVL
+
+    Fecha de entrega: 23 de marzo
+
+    Especificación: TareaAVL.pdf
+
+    Liga de entrega: https://classroom.github.com/a/pjt9ASVC

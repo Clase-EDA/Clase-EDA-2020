@@ -4,6 +4,8 @@ La carpeta de tareas contiene la descripción de cada tarea conforme se vaya asi
 
 La carpeta de datos tiene los datos necesarios para realizar las tareas que así lo requieran.
 
+# Anuncio
+El examen de EDA se pasa para el lunes 23 de marzo a las 11:30
 
 ## Preguntas
 

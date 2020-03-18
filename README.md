@@ -1,6 +1,6 @@
 # Repositorio Estructura de Datos Avanzadas
 
-# Instalen Slack para comunicarnos. Los voy a invitar usando el correo del itam a menos que me den otro
+# Instalen Slack para comunicarnos. Les mandé una invitación a su correo del ITAM
 
 La carpeta de tareas contiene la descripción de cada tarea conforme se vaya asignando. Asegúrense de actualizar su copia del repositorio después de cada aviso de tarea.
 

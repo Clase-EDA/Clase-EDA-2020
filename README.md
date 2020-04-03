@@ -1,16 +1,5 @@
 # Repositorio Estructura de Datos Avanzadas
 
-# El examen de el lunes 23 de marzo se hará por Moodle a las 11:30 
-
-## Instrucciones
-
-1. Deben conectarse a Teams a más tardar 11:30, recomiendo 5 min antes. Por ahí nos vemos
-2. El examen estará disponible a las 11:30 vía Moodle en comunidad. Conéctense a Comunidad 11:25
-3. Estar en un lugar silencioso y con una computadora (no pretendan hacer el examen desde el teléfono)
-4. Pueden usar su teléfono para comunicarse conmigo via Slack
-5. Todas las preguntas deben de hacerse vía Slack usando mensaje directo a mi
-6. Todas las preguntas pueden ser contestadas en el cuadro de texto provisto.  La mayoría acepta subir un archivo en caso de que prefieran trabajarlo en papel y subir una imagen (seguro en 1 lo van a preferir hacer).
-7. Recuerden que copiar es engañarse a si mismo
 
 # Tareas
 

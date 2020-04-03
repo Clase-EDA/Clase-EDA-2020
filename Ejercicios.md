@@ -22,3 +22,11 @@
     Especificación: TareaAVL.pdf
 
     Liga de entrega: https://classroom.github.com/a/pjt9ASVC
+
+3. Tarea 3. Árboles B+
+
+    Fecha de entrega: 16 de abril
+
+    Especificación: TareaB+.pdf
+
+    Liga de entrega: https://classroom.github.com/a/7x5n6fIk

@@ -25,7 +25,7 @@
 
 3. Tarea 3. Árboles B+
 
-    Fecha de entrega: 16 de abril
+    Fecha de entrega: 23 de abril
 
     Especificación: TareaB+.pdf
 

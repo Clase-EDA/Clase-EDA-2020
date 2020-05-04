@@ -8,7 +8,7 @@ La carpeta de tareas contiene la descripción de cada tarea conforme se vaya asi
 La carpeta de datos tiene los datos necesarios para realizar las tareas que así lo requieran.
 
 # Anuncio
-El examen de EDA se pasa para el lunes 23 de marzo a las 11:30
+La lista con las tareas entregadas (1) y no entregradas (0) hasta el 3 de mayo 2020 es tareaSI-NO.pdf
 
 ## Preguntas
 

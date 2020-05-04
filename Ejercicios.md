@@ -30,3 +30,11 @@
     Especificación: TareaB+.pdf
 
     Liga de entrega: https://classroom.github.com/a/7x5n6fIk
+
+4. Tarea4.  Trie
+
+    Fecha de entrega: 15 de mayo
+
+    Especificación: TareaTrie.pdf
+
+    Liga de entrega: https://classroom.github.com/a/kGRt88ra
